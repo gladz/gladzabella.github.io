@@ -28,9 +28,9 @@ graduate at PUP,<br /> and currently I'm working in a government agency
 <br />as a systems analyst</p>
     `;
 
-  const img1 = '../images/me_copy.jpg';
-  const img2 = '../images/family.jpg';
-  const img3 = '../images/me2.jpg';
+  const img1 = 'images/me_copy.jpg';
+  const img2 = 'images/family.jpg';
+  const img3 = 'images/me2.jpg';
 
 if(counter==0){
   
